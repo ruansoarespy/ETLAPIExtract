@@ -25,4 +25,4 @@ if __name__ == "__main__":
 
     dados_json = extrair_dados_bitcoin()
     dados_tratados = tratar_dados_bitcoin(dados_json)
-    print(dados_tratados)
+    
